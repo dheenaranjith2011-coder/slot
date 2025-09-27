@@ -123,8 +123,8 @@ time.html
 ```
 
 
-## OUTPUT
-![alt text](<dheena/Screenshot (21).png>)
+##
+![alt text](<Screenshot (30).png>) OUTPUT
 ![alt text](<dheena/Screenshot (22).png>)
 
 
