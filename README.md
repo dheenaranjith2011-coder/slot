@@ -123,9 +123,8 @@ time.html
 ```
 
 
-##
-![alt text](<Screenshot (30).png>) OUTPUT
-![alt text](<dheena/Screenshot (22).png>)
+## OUTPUT
+![alt text](<Screenshot (30).png>) 
 
 
 ## RESULT
